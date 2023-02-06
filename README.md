@@ -1,5 +1,11 @@
 # publicExamples
 
+WIKI: Kotlin/Compose/Hilt/Ktor - Using GPS to get information from an API
+
+![wiki](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif)
+
+
+
 GOT: Kotlin/Compose
 
 ![gotshort](https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif)
