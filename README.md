@@ -4,7 +4,7 @@ WIKI: Kotlin/Compose/Hilt/Ktor - Using GPS to get information from an API
 
 ![wiki](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif)
 
-<img src="[/images/output/video1.gif](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif)" width="250" height="250"/>
+<img src="/images/output/video1.gif](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif" width="250" height="250"/>
 
 GOT: Kotlin/Compose
 
