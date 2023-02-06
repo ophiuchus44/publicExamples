@@ -8,7 +8,9 @@ WIKI: Kotlin/Compose/Hilt/Ktor - Using GPS to get information from an API
 
 GOT: Kotlin/Compose
 
-![gotshort](https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif)
+<img src="https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif" width="250" height="500"/>
+
+<!-- ![gotshort](https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif) -->
 
 
 Gameboy tetris: Kotlin/Compose
