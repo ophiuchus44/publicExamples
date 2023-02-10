@@ -1,5 +1,19 @@
 # publicExamples
 
+
+Gameboy tetris: Kotlin/Compose
+
+<!-- ![gameboy2](https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif) -->
+
+<img src="https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif" width="250" height="500"/>
+
+
+Levels for Game I'm making: Kotlin/Compose
+
+<!-- ![gridlevels](https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif) -->
+
+<img src="https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif" width="250" height="500"/>
+
 WIKI: Kotlin/Compose/Hilt/Ktor - Using GPS to get information from an API
 
 <!-- ![wiki](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif) -->
@@ -13,11 +27,6 @@ GOT: Kotlin/Compose
 <!-- ![gotshort](https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif) -->
 
 
-Gameboy tetris: Kotlin/Compose
-
-<!-- ![gameboy2](https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif) -->
-
-<img src="https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif" width="250" height="500"/>
 
 some videos of an A* pathfinder project I made
 
