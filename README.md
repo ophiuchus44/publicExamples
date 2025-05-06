@@ -1,6 +1,14 @@
 # publicExamples
 
 
+Medical Focus
+
+Hand Warm-ups
+
+![short-ezgif com-optimize](https://github.com/user-attachments/assets/25b2788b-1460-4fe7-862c-eee629315557)
+
+
+
 Gameboy tetris: Kotlin/Compose
 
 <!-- ![gameboy2](https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif) -->
