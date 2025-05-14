@@ -6,8 +6,13 @@ Hand Warm-ups
 
 ![short-ezgif com-optimize](https://github.com/user-attachments/assets/25b2788b-1460-4fe7-862c-eee629315557)
 
+Running Man - arm swings
 
-Test
+![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
+
+
+DirectTV Automated Testing
+
 https://www.youtube.com/watch?v=6my0DNk5618
 
 Gameboy tetris: Kotlin/Compose
