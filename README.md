@@ -3,8 +3,6 @@ These are a few projects I've built over the years — just some public examples
 
 ---
 
-# publicExamples
-
 ## 🖐️ Hand Warm-ups  
 Using computer vision to track finger-to-thumb warm-up gestures.
 
@@ -16,12 +14,6 @@ Using computer vision to track finger-to-thumb warm-up gestures.
 Tracks arm motion and gives feedback on running form.
 
 ![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
-
----
-
-## 📺 DirectTV Automated Testing  
-Scripting and automation to simulate remote control inputs.  
-🔗 [Watch the demo](https://www.youtube.com/watch?v=6my0DNk5618)
 
 ---
 
@@ -58,6 +50,13 @@ Short video demos of an interactive pathfinding project.
 Fetches local data from GPS and APIs for contextual info.
 
 <img src="https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif" width="250" height="500"/>
+
+---
+
+## 📺 DirectTV Automated Testing (2017) 
+Scripting and automation to simulate remote control inputs.  
+
+![ezgif com-optimize (1)](https://github.com/user-attachments/assets/68b7d41a-99c8-4e7d-a384-18a84e716cbd)
 
 ---
 
