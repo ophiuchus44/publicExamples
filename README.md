@@ -57,8 +57,4 @@ mmjprice.com
 ![ezgif com-optimize](https://github.com/user-attachments/assets/3fcfbb6c-b6ce-4762-ad09-20b05ca710ea)
 
 
-Options Chain Data with currently stock price
-
-https://user-images.githubusercontent.com/17733702/217310049-9cc58b85-38e1-43ab-9c4f-67e580ef6e8d.mov
-
 
