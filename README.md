@@ -1,60 +1,67 @@
+# Hi, I'm Paul 👋  
+These are a few projects I've built over the years — just some public examples. There's more.
+
+---
+
 # publicExamples
 
-
-
-Hand Warm-ups
+## 🖐️ Hand Warm-ups  
+Using computer vision to track finger-to-thumb warm-up gestures.
 
 ![short-ezgif com-optimize](https://github.com/user-attachments/assets/25b2788b-1460-4fe7-862c-eee629315557)
 
-Running Man - arm swings
+---
+
+## 🏃 Running Man – Arm Swing Tracker  
+Tracks arm motion and gives feedback on running form.
 
 ![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
 
+---
 
-DirectTV Automated Testing
+## 📺 DirectTV Automated Testing  
+Scripting and automation to simulate remote control inputs.  
+🔗 [Watch the demo](https://www.youtube.com/watch?v=6my0DNk5618)
 
-https://www.youtube.com/watch?v=6my0DNk5618
+---
 
-Gameboy tetris: Kotlin/Compose
-
-<!-- ![gameboy2](https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif) -->
+## 🎮 Gameboy Tetris – Kotlin/Compose  
+Gameboy emulator UI with Tetris built using Jetpack Compose.
 
 <img src="https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif" width="250" height="500"/>
 
+---
 
-Levels for Game I'm making: Kotlin/Compose
-
-<!-- ![gridlevels](https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif) -->
+## 🧩 Game Level Editor – Kotlin/Compose  
+Tile-based level builder with real-time interaction.
 
 <img src="https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif" width="250" height="500"/>
 
-WIKI: Kotlin/Compose/Hilt/Ktor - Using GPS to get information from an API
+---
 
-<!-- ![wiki](https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif) -->
+## 🏰 Game of Thrones – UI/UX Concept (2023)  
+Concept interface and interactions using Kotlin/Compose.
+
+<img src="https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif" width="250" height="500"/>
+
+---
+
+## 🧭 A* Pathfinding Visualizer (2023)  
+Short video demos of an interactive pathfinding project.
+
+[▶️ Demo 1](https://user-images.githubusercontent.com/17733702/216486354-cb9c25db-b86b-4c3a-ae35-4e95bdbb6900.mov)  
+[▶️ Demo 2](https://user-images.githubusercontent.com/17733702/216486366-b450e6ab-cc77-4a04-9432-762c82afee31.mov)
+
+---
+
+## 🌍 WIKI App – Kotlin/Compose/Hilt/Ktor (2020)  
+Fetches local data from GPS and APIs for contextual info.
 
 <img src="https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif" width="250" height="500"/>
 
-GOT: Kotlin/Compose
+---
 
-<img src="https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif" style="transform: rotate(90deg);" width="250" height="500" />
-
-<!-- ![gotshort](https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif) -->
-
-
-
-some videos of an A* pathfinder project I made
-
-https://user-images.githubusercontent.com/17733702/216486354-cb9c25db-b86b-4c3a-ae35-4e95bdbb6900.mov
-
-
-
-https://user-images.githubusercontent.com/17733702/216486366-b450e6ab-cc77-4a04-9432-762c82afee31.mov
-
-
-mmjprice.com
-
+## 🌿 mmjprice.com (2016)  
+Early-stage web app for MMJ pricing aggregation.
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/3fcfbb6c-b6ce-4762-ad09-20b05ca710ea)
-
-
-
