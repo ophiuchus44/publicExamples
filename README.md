@@ -15,23 +15,32 @@ Tracks arm motion and gives feedback on running form.
 
 ![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
 
+
 ---
 
-## 🎮 Gameboy Tetris – Kotlin/Compose  
+## ❤️ YouGee –  Dating App (2024)  
+A dating app where users could search for things they are interested in, like hiking or cooking. Focused on intentional connection and aesthetics over gamification.  
+
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=EsYnpAHfjNM)
+
+---
+
+
+## 🎮 Gameboy Tetris – Kotlin/Compose  (2023)
 Gameboy emulator UI with Tetris built using Jetpack Compose.
 
 <img src="https://user-images.githubusercontent.com/17733702/217046867-97218a15-d7f9-4e5c-9ad8-0fd0d307c4d3.gif" width="250" height="500"/>
 
 ---
 
-## 🧩 Game Level Editor – Kotlin/Compose  
+## 🧩 Game Level Editor – Kotlin/Compose  (2021)
 Tile-based level builder with real-time interaction.
 
 <img src="https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif" width="250" height="500"/>
 
 ---
 
-## 🏰 Game of Thrones – UI/UX Concept (2023)  
+## 🏰 Game of Thrones – UI/UX Concept (2022)  
 Concept interface and interactions using Kotlin/Compose.
 
 <img src="https://user-images.githubusercontent.com/17733702/217055877-0a7788ee-87a4-41e3-acf9-ffefb9e04751.gif" width="250" height="500"/>
@@ -50,6 +59,13 @@ Short video demos of an interactive pathfinding project.
 Fetches local data from GPS and APIs for contextual info.
 
 <img src="https://user-images.githubusercontent.com/17733702/217066635-e0d2d287-9303-4dd4-9f3b-ac1710e84f0e.gif" width="250" height="500"/>
+
+---
+
+## 🪐 Interstellar – Dating App (2019)  
+Focused on intentional connection and aesthetics over gamification.  
+
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=YqgHC03DUnc)
 
 ---
 
