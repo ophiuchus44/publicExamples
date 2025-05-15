@@ -3,14 +3,14 @@ These are a few projects I've built over the years — just some public examples
 
 ---
 
-## 🖐️ Hand Warm-ups  
+## 🖐️ Hand Warm-ups  (2025)
 Using computer vision to track finger-to-thumb warm-up gestures.
 
 ![short-ezgif com-optimize](https://github.com/user-attachments/assets/25b2788b-1460-4fe7-862c-eee629315557)
 
 ---
 
-## 🏃 Running Man – Arm Swing Tracker  
+## 🏃 Running Man – Arm Swing Tracker (2025) 
 Tracks arm motion and gives feedback on running form.
 
 ![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
