@@ -15,7 +15,6 @@ Tracks arm motion and gives feedback on running form.
 
 ![runningmanShort-ezgif com-crop](https://github.com/user-attachments/assets/112e793e-55f2-4a06-b8fb-8f76f9e8895f)
 
-
 ---
 
 ## ❤️ YouGee –  Dating App (2024)  
@@ -33,10 +32,11 @@ Gameboy emulator UI with Tetris built using Jetpack Compose.
 
 ---
 
-## 🧩 Game Level Editor – Kotlin/Compose  (2021)
-Tile-based level builder with real-time interaction.
+## 🧭 A* Pathfinding Visualizer (2023)  
+Short video demos of an interactive pathfinding project.
 
-<img src="https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif" width="250" height="500"/>
+![ezgif com-crop](https://github.com/user-attachments/assets/51117674-4df7-42c9-9185-5f54c2f11ac3)
+![astarsolve-ezgif com-crop](https://github.com/user-attachments/assets/c258a05c-a6bb-4fcc-8075-8cdfa4a0d052)
 
 ---
 
@@ -47,11 +47,10 @@ Concept interface and interactions using Kotlin/Compose.
 
 ---
 
-## 🧭 A* Pathfinding Visualizer (2023)  
-Short video demos of an interactive pathfinding project.
+## 🧩 Game Level Editor – Kotlin/Compose  (2021)
+Tile-based level builder with real-time interaction.
 
-![ezgif com-crop](https://github.com/user-attachments/assets/51117674-4df7-42c9-9185-5f54c2f11ac3)
-![astarsolve-ezgif com-crop](https://github.com/user-attachments/assets/c258a05c-a6bb-4fcc-8075-8cdfa4a0d052)
+<img src="https://user-images.githubusercontent.com/17733702/218213834-40b2a597-54b0-4f31-9baa-8c727f7bf0c8.gif" width="250" height="500"/>
 
 ---
 
